@@ -1,1 +1,13 @@
-Issue Template Goes Here.
+name: Bug Report
+description: Report bugs based on the site.
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: Bug report
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Did you see anything wrong? If so, please mention it.
