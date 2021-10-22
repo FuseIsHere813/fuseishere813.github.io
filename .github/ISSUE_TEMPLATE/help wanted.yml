@@ -1,0 +1,13 @@
+name: Help Wanted
+description: Not sure if this is nessacary.
+labels: [help wanted]
+body:
+  - type: textarea
+    attributes:
+      label: Help Wanted
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: What help do you need on the site?
