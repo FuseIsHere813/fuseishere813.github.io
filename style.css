@@ -9,3 +9,43 @@ background-attachment: fixed;
 background-size: cover;
  font-family: VCR OSD Mono;
 }
+
+a { color:inherit;
+  text-decoration: none;}
+.hovertext a{
+    color:white;
+    text-shadow: -1px 0 #000000bb, 0 1px #000000bb, 1px 0 #000000bb, 0 -1px #000000bb;
+    font-size: 100%;
+    transition: color 1s, text-shadow 1s, font-size 1s;
+}
+.hovertext a:hover
+{
+    text-shadow: -2px 0 #000000dd, 0 2px #000000dd, 2px 0 #000000dd, 0 -2px #000000dd;
+    font-size: 110%;
+    color: #ffb50e;
+}
+.linktext {
+    text-align: center;
+    display:block;
+    font-size: 130%;
+    padding-bottom: 10px;
+}
+.linktext a {
+    font-weight: bold;  
+}
+.linktext a:hover {
+  border-radius: 5px;
+}
+
+#itch a:hover
+{
+    color: #fd5392;
+}
+#drive a:hover
+{
+    color: #8aff59;
+}
+#wiki a:hover
+{
+    color: #24daff;
+}
