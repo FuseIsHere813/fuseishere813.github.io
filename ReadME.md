@@ -2,6 +2,4 @@
 
 lol
 
-![Show her support and love :)](images/FinityErisIsHotAF.jpeg)
-
-Finity Eris is the best.
+nah screw it, all hail the moai!
