@@ -2,4 +2,4 @@
 
 lol
 
-nah screw it, all hail the moai!
+all hail the moai! all must do WHEN required to NOW! 
